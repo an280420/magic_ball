@@ -17,7 +17,7 @@ ruby magic_ball.rb
 6. Нажмите Enter, и вы получите ответ.
 7. Можете повторить
 
-en:A simple game "Magic ball" written in the Ruby programming language. 
+en: A simple game "Magic ball" written in the Ruby programming language. 
 The program provides answers to your questions. 
 A full description of the game can be found here https://ru.wikipedia.org/wiki/Magic_8_ball
 ### System Requirements
