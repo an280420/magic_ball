@@ -1,5 +1,8 @@
-# magic_ball
+# Magic ball game (игра Волшебный шар)
+
 simple magic ball console game in Ruby
+
+Полное описание игры можно узнать здесь https://ru.wikipedia.org/wiki/Magic_8_ball
 
 ru:
 Простая игра "Волшебный шар" написанная на языке программирования Ruby. 
