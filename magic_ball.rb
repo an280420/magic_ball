@@ -36,6 +36,6 @@ hello = [
 ]
 
 puts hello.sample
-puts ""
+puts
 sleep 3
 puts answers.sample
