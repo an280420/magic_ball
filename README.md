@@ -1,4 +1,4 @@
-# Magic ball game (игра Волшебный шар)
+# Игра "Волшебный шар" (Magic ball game)
 
 simple magic ball console game in Ruby
 
@@ -9,8 +9,7 @@ ru:
 Программа дает ответы на ваши вопросы.
 Для запуска программы у вас должен быть установлен интерпретатор языка Ruby.
 Программа предназначена для запуска в консоли.
-Зайдите в директорию с файлом magic_ball.rb
-
+Зайдите в директорию с файлом magic_ball.rb.
 Задайте вопрос. 
 Для получения ответа, наберите в командной строке
 ```
@@ -24,8 +23,7 @@ A simple game "Magic Ball" written in the Ruby programming language.
 The program provides answers to your questions.
 To run the program, you must have the Ruby interpreter installed.
 The program is designed to run in the console.
-Go to the directory with the magic_ball.rb file
-
+Go to the directory with the magic_ball.rb file. 
 Ask a question.
 To get a response, type in the command line
 ``
